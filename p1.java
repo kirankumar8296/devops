@@ -2,7 +2,7 @@
 // Two variables
 
 // Driver Class
-public class GfG {
+public class p1 {
 	// main function
 	public static void main(String[] args)
 	{
